@@ -13,7 +13,7 @@ $(document).ready(function() {
                 wrong1: "Houston, TX",
                 wrong2: "Wilkes-Barre, PA",
                 wrong3: "Richmond, VA",
-                img: "<img src='images/titusville.jpg'>"
+                img: "<img src='assets/images/titusville.jpg'>"
             }
 
             var Question2 = {
@@ -23,7 +23,7 @@ $(document).ready(function() {
                 wrong1: "August 27th, 1859",
                 wrong2: "August 28th, 1858",
                 wrong3: "August 27th, 1858",
-                img: "<img src='images/1859.jpg'>"
+                img: "<img src='assets/images/1859.jpg'>"
             }
 
             var Question3 = {
@@ -33,7 +33,7 @@ $(document).ready(function() {
                 wrong1: "1900",
                 wrong2: "1910",
                 wrong3: "1899",
-                img: "<img src='images/spindletop.jpg'>"
+                img: "<img src='assets/images/spindletop.jpg'>"
 
             }
 
@@ -44,7 +44,7 @@ $(document).ready(function() {
                 wrong1: "Anglo-Iranian Oil, Company (now BP), Gulf Oil (later part of Chevron), Royal Dutch Shell, Standard Oil Company of California (SoCal, now Chevron), Standard Oil Company of New Jersey (Esso, later Exxon), Standard Oil Company of New York (Socony, later Mobil, now part of ExxonMobil), Standard Oil of Ohio (later Conoco)",
                 wrong2: "Anglo-Iranian Oil, Company (now BP), Gulf Oil (later part of Chevron), Royal Dutch Shell, ConocoPhillips, Standard Oil Company of New Jersey (Esso, later Exxon), Standard Oil Company of New York (Socony, later Mobil, now part of ExxonMobil), Texaco (later merged into Chevron)",
                 wrong3: "Elf (now TOTAL), Gulf Oil (later part of Chevron), Royal Dutch Shell, Standard Oil Company of California (SoCal, now Chevron), Standard Oil Company of New Jersey (Esso, later Exxon), Standard Oil Company of New York (Socony, later Mobil, now part of ExxonMobil), Texaco (later merged into Chevron)",
-                img: "<img src='images/sisters.png'>"
+                img: "<img src='assets/images/sisters.png'>"
 
             }
 
@@ -55,7 +55,7 @@ $(document).ready(function() {
                 wrong1: "Piper Alpha",
                 wrong2: "Deepwater Horizon",
                 wrong3: "Ixtoc I",
-                img: "<img src='images/Exval.jpeg'>"
+                img: "<img src='assets/images/Exval.jpeg'>"
 
             }
 
@@ -66,7 +66,7 @@ $(document).ready(function() {
                 wrong1: "October 7, 1957",
                 wrong2: "October 6, 1958",
                 wrong3: "October 7, 1957",
-                img: "<img src='images/SPE.jpg'>"
+                img: "<img src='assets/images/SPE.jpg'>"
 
 
             }
@@ -78,7 +78,7 @@ $(document).ready(function() {
                 wrong1: "Jeff Spath",
                 wrong2: "Helge Halvorsen",
                 wrong3: "Nathan Meehan",
-                img: "<img src='images/janeen.jpg'>"
+                img: "<img src='assets/images/janeen.jpg'>"
 
             }
 
@@ -89,7 +89,7 @@ $(document).ready(function() {
                 wrong1: "Russia",
                 wrong2: "Saudi Arabia",
                 wrong3: "Iran",
-                img: "<img src='images/USA.png'>"
+                img: "<img src='assets/images/USA.png'>"
 
             }
 
@@ -99,7 +99,7 @@ $(document).ready(function() {
                 wrong1: "Saudi Arabia",
                 wrong2: "USA",
                 wrong3: "Russia",
-                img: "<img src='images/Venezuela.gif'>"
+                img: "<img src='assets/images/Venezuela.gif'>"
 
             }
 
@@ -109,7 +109,7 @@ $(document).ready(function() {
                 wrong1: "non-traditional",
                 wrong2: "unusual",
                 wrong3: "abnormal",
-                img: "<img src='images/unconventionals.jpg'>"
+                img: "<img src='assets/images/unconventionals.jpg'>"
 
             }
 
@@ -120,7 +120,7 @@ $(document).ready(function() {
                 wrong1: "Russia",
                 wrong2: "Iran",
                 wrong3: "Qatar",
-                img: "<img src='images/USA.png'>"
+                img: "<img src='assets/images/USA.png'>"
 
             }
 
